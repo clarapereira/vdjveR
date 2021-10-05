@@ -6,5 +6,6 @@ source("./R/colors.R")
 source("./R/plotBoxplotDotJitter.R")
 source("./R/plotBoxplotDotJitterHz.R")
 source("./R/totalUniqueRearrPerSamplePerReceptor.R")
+source("./R/makeRatioColumns.R")
 
 
