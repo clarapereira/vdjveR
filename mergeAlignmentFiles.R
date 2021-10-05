@@ -28,7 +28,7 @@ all_file_sufix <- ".clonotypes.ALL.txt"
 #outfilename <- "clonotypes_ALL_raw_wMeta_productive"
 
 
-outfile <- paste0(results_path, "/", outfilename, ".tsv")
+#outfile <- paste0(results_path, "/", outfilename, ".tsv")
 
 
 # Optional: add extra column with custum names to metadata
