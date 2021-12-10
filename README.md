@@ -1,6 +1,6 @@
 # vdjveR
 
-An R package to explore VDJ diversity. Requires the  tidyverse R package.
+A primer for an R package to explore VDJ diversity. Requires the  tidyverse R package.
 
 Tools provided:
 - merge individual output files from MIXCR into a single table
